@@ -7,10 +7,21 @@
 ---
 
 ### 👨‍💻 Sobre mim
-- 🎓 ADS - Unicesumar
-- 📍 Curitiba - PR
-- 💼 Buscando estágio na área Back-End (Java)
-- 🏦 Interesse em atuar no setor bancário
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - Unicesumar  
+📍 Curitiba - PR  
+
+ com foco na construção de aplicações back-end e integração com banco de dados.
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- ☕ Java
+- 🐘 PHP
+- ⚙️ C++
+- 🗄️ MySQL
+- 🌐 HTML, CSS e JavaScript
+
+Busco evoluir constantemente minhas habilidades em lógica de programação, desenvolvimento de sistemas e estruturação de bancos de dados, aplicando boas práticas e soluções eficientes no desenvolvimento de aplicações.
 
 ---
 
