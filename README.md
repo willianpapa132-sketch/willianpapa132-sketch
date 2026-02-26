@@ -1,4 +1,4 @@
-<h1 align="center">WILLIAN VSOUZA 👋</h1>
+<h1 align="center">WILLIAN VSOUZA </h1>
 
 <p align="center">
 💻 Desenvolvedor Back-End Focado em java e MySql
