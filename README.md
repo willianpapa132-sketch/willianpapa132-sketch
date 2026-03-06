@@ -95,14 +95,4 @@ Busco evoluir constantemente minhas habilidades em lógica de programação, des
 
 ---
 
-### 📊 Estatísticas
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=willianpapa132-sketch&show_icons=true&theme=tokyonight"
-/>
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianpapa132-sketch&layout=compact&theme=tokyonight"
-/>
