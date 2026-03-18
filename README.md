@@ -20,6 +20,8 @@ Atualmente estou aprofundando meus conhecimentos em:
 - ⚙️ C++
 - 🗄️ MySQL
 - 🌐 HTML, CSS e JavaScript
+- 🧱 POO Java
+- 📊 Estrutura De Dados
 
 Busco evoluir constantemente minhas habilidades em lógica de programação, desenvolvimento de sistemas e estruturação de bancos de dados, aplicando boas práticas e soluções eficientes no desenvolvimento de aplicações.
 
