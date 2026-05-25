@@ -144,5 +144,5 @@ Tenho interesse especial em:
 # 📫 Contato
 
 📧 willianpapa132@gmail.com  
-💼 LinkedIn: adicione depois  
+💼 LinkedIn: https://www.linkedin.com/in/willian-vinicius-59b53a37a/
 🐙 GitHub: https://github.com/willianpapa132-sketch
