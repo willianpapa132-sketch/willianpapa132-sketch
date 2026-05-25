@@ -1,100 +1,148 @@
-<h1 align="center">WILLIAN VSOUZA </h1>
+<h1 align="center">Willian V. Souza</h1>
 
 <p align="center">
-💻 Desenvolvedor Back-End Focado em java e MySql
+💻 Desenvolvedor Back-End Java | APIs REST | Banco de Dados
+</p>
+
+<p align="center">
+<a href="https://github.com/willianpapa132-sketch">GitHub</a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - Unicesumar  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas — Unicesumar  
 📍 Curitiba - PR  
 
- com foco na construção de aplicações back-end e integração com banco de dados.
+Atualmente focado no desenvolvimento back-end com Java, construção de APIs REST e integração com banco de dados relacionais.
 
-Atualmente estou aprofundando meus conhecimentos em:
+Tenho desenvolvido projetos práticos utilizando arquitetura em camadas, CRUDs completos, integração com banco de dados e aplicações voltadas para regras de negócio reais.
+
+Atualmente estudando e aprofundando conhecimentos em:
 
 - ☕ Java
+- 🌱 Spring Boot
+- 🔗 APIs REST
+- 🗄️ MySQL & PostgreSQL
+- 🧱 Programação Orientada a Objetos (POO)
+- 📊 Estrutura de Dados
+- 🔄 JPA / Hibernate
 - 🐘 PHP
 - ⚙️ C++
-- 🗄️ MySQL
 - 🌐 HTML, CSS e JavaScript
-- 🧱 POO Java
-- 📊 Estrutura De Dados
-
-Busco evoluir constantemente minhas habilidades em lógica de programação, desenvolvimento de sistemas e estruturação de bancos de dados, aplicando boas práticas e soluções eficientes no desenvolvimento de aplicações.
+- 🅰️ Angular (em aprendizado)
 
 ---
 
-### 🖥️ Front-End
+# 🚀 Tecnologias
 
+## 🖥️ Front-End
+
+<p align="left">
 <img 
-    align="left" 
     alt="HTML"
-    width="40px" 
+    width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
 />
 
 <img 
-    align="left" 
     alt="CSS"
-    width="40px" 
+    width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
 
 <img 
-    align="left" 
     alt="JavaScript"
-    width="40px" 
+    width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
 
-<br/>
-<br/>
+<img 
+    alt="Angular"
+    width="45px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
+/>
+</p>
 
 ---
 
-### ⚙️ Back-End
+## ⚙️ Back-End
 
+<p align="left">
 <img 
-    align="left" 
     alt="Java"
-    width="40px" 
+    width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
 
 <img 
-    align="left" 
+    alt="Spring"
+    width="45px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+/>
+
+<img 
     alt="PHP"
-    width="40px" 
+    width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
 />
 
 <img 
-    align="left" 
     alt="C++"
-    width="40px" 
+    width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
 />
-
-<br/>
-<br/>
+</p>
 
 ---
 
-### 🗄️ Banco de Dados
+## 🗄️ Banco de Dados
 
+<p align="left">
 <img 
-    align="left" 
     alt="MySQL"
-    width="40px" 
+    width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
 
-<br/>
-<br/>
+<img 
+    alt="PostgreSQL"
+    width="45px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
+</p>
 
 ---
 
+# 📚 Atualmente estudando
 
+- Spring Boot
+- APIs REST
+- JPA / Hibernate
+- Arquitetura Back-End
+- Estrutura de Dados
+- Integração com Banco de Dados
+- Boas práticas no desenvolvimento Java
+
+---
+
+# 📌 Objetivo
+
+Busco minha primeira oportunidade como desenvolvedor back-end Java, com foco em desenvolvimento de APIs, sistemas corporativos e aplicações escaláveis.
+
+Tenho interesse especial em:
+- Sistemas ERP
+- Integrações
+- APIs REST
+- Sistemas empresariais
+- Banco de dados
+- Arquitetura back-end
+
+---
+
+# 📫 Contato
+
+📧 willianpapa132@gmail.com  
+💼 LinkedIn: adicione depois  
+🐙 GitHub: https://github.com/willianpapa132-sketch
